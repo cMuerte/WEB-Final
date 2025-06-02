@@ -48,6 +48,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For questions or feedback, reach out via:
-- **Email**: [email protected]
-- **Phone**: +77073822698
+- **Email**: fitsupp@gmail.com
+- **Phone**: +77087275477
 - **Address**: Mangilik el C1, Astana, Kazakhstan
