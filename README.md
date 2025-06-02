@@ -38,13 +38,11 @@ The Fitness Platform Website is a static HTML-based application designed to empo
 
 ## Structure Enhancements
 - **Styling and Interactivity**: Add CSS and JavaScript for enhanced design and user experience.
-- **Backend Integration**: Implement a backend (e.g., Node.js, Django) for dynamic user authentication, course enrollment, and search functionality.
 - **Database Support**: Store user profiles, progress, and reviews dynamically.
-- **Accessibility**: Incorporate ARIA attributes and ensure WCAG compliance.
-- **Responsive Design**: Optimize for mobile and tablet devices using CSS frameworks like Bootstrap or Tailwind.
+- **Responsive Design**: Optimize for mobile and tablet devices using CSS frameworks like Bootstrap.
 
 ## Contact
 For questions or feedback, reach out via:
-- **Email**: fitsupp@gmail.com
+- **Email**: support@fittracker.com
 - **Phone**: +77087275477
 - **Address**: Mangilik el C1, Astana, Kazakhstan
