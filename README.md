@@ -43,9 +43,6 @@ The Fitness Platform Website is a static HTML-based application designed to empo
 - **Accessibility**: Incorporate ARIA attributes and ensure WCAG compliance.
 - **Responsive Design**: Optimize for mobile and tablet devices using CSS frameworks like Bootstrap or Tailwind.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For questions or feedback, reach out via:
 - **Email**: fitsupp@gmail.com
